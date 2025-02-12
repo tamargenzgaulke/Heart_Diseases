@@ -12,3 +12,4 @@ import matplotlib.pyplot as plt
 # Carregar o dataset
 df = pd.read_csv("/Users/tamargenzgaulke/Documents/GitHub/Heart_Diseases/heart_disease_uci.csv") 
 
+df.info
