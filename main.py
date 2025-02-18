@@ -13,3 +13,5 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("/Users/tamargenzgaulke/Documents/GitHub/Heart_Diseases/heart_disease_uci.csv") 
 
 df.info
+df.head
+
