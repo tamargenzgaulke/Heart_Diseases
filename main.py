@@ -15,5 +15,7 @@ df = pd.read_csv("/Users/tamargenzgaulke/Documents/GitHub/Heart_Diseases/heart_d
 df.info
 df.head
 
-## Continuar
+## Continuar com o sandbox
+
+ 
 
