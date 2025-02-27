@@ -143,7 +143,7 @@ print(f'Acurácia: {accuracy:.2f}')
 print('Relatório de Classificação:\n', classification_report(y_test, y_pred))
 
 #%%
-
+###OLHAR##
 # Importar bibliotecas para SHAP
 !pip install shap
 import shap
