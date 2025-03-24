@@ -1,5 +1,3 @@
-#%%
-!pip install seaborn
 
 #%%
 import pandas as pd
@@ -145,7 +143,6 @@ print('Relatório de Classificação:\n', classification_report(y_test, y_pred))
 #%%
 ###OLHAR##
 # Importar bibliotecas para SHAP
-!pip install shap
 import shap
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier
