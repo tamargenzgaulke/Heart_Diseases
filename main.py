@@ -159,3 +159,5 @@ shap_values = explainer.shap_values(amostra)
 
 #%% Gráfico Resumo
 shap.summary_plot(shap_values, amostra, feature_names=X.columns)
+
+##
